@@ -1,5 +1,3 @@
-# awscli
-
 Make sure the below environment variables are set appropriately inn the host environment from which you do _vagrant up_, before you do _vagrant up_.
 
 >1. AWS_ACCESS_KEY_ID
